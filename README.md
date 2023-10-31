@@ -26,7 +26,7 @@ Example:
 ```ahk
 ;;; tableName
 ; a ඞ
-;   mode := 'space'
+; mode := 'space'
 
 ;;; another table
 ; l ❣
